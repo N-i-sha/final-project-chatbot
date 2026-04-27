@@ -1,0 +1,27 @@
+# ─── Web Framework ────────────────────────────────────────────────────────────
+fastapi==0.115.0
+uvicorn[standard]==0.29.0
+python-multipart==0.0.9
+
+# ─── RAG / LangChain ──────────────────────────────────────────────────────────
+langchain==0.2.6
+langchain-community==0.2.6
+langchain-groq==0.1.6
+
+# ─── Vector Store ─────────────────────────────────────────────────────────────
+chromadb==0.5.3
+
+# ─── Embeddings (runs 100% locally, no API key needed) ────────────────────────
+sentence-transformers==3.0.1
+
+# ─── Document Loaders ─────────────────────────────────────────────────────────
+# For loading .txt files (already bundled with langchain-community)
+# For PDF support uncomment the line below:
+# pypdf==4.2.0
+
+# ─── HTTP Client (used internally by Groq SDK) ────────────────────────────────
+httpx==0.27.0
+
+# ─── Utilities ────────────────────────────────────────────────────────────────
+python-dotenv==1.0.1
+pydantic==2.10.6
