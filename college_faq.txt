@@ -1,0 +1,184 @@
+COLLEGE FAQ KNOWLEDGE BASE
+===========================
+Institution: Greenfield Institute of Technology (GIT)
+Last Updated: 2024
+
+--- ADMISSIONS ---
+
+Q: What are the eligibility criteria for B.Tech admission?
+A: To be eligible for B.Tech admission at GIT, candidates must have passed 10+2 (or equivalent) with a minimum of 60% marks in Physics, Chemistry, and Mathematics (PCM). SC/ST candidates require 55%. Candidates must also have a valid JEE Main score. Lateral entry (2nd year) is available for diploma holders with 60% aggregate.
+
+Q: What is the admission process for B.Tech?
+A: The admission process involves: (1) Applying online at git.ac.in/admissions, (2) Submitting JEE Main scorecard, (3) Attending counselling rounds, (4) Document verification, and (5) Fee payment to confirm your seat. Admission is strictly merit-based on JEE Main percentile.
+
+Q: When does the admission process start?
+A: Admissions typically open in June every year after JEE Main results are announced. The last date for application is usually end of July. Spot admissions (if seats are available) happen in August.
+
+Q: What documents are required at the time of admission?
+A: Required documents include: 10th and 12th mark sheets and certificates, JEE Main scorecard, Transfer Certificate (TC), Migration Certificate, Character Certificate, Caste certificate (if applicable), 8 passport-size photographs, Aadhar card, and Medical fitness certificate.
+
+Q: Is there a direct admission quota?
+A: Yes, GIT has a 15% management quota and 5% NRI quota. Management quota admissions are based on 10+2 marks. For NRI quota, contact the admissions office. All quota admissions still require minimum eligibility criteria.
+
+Q: What is the intake capacity for each branch?
+A: Computer Science & Engineering: 120 seats, Electronics & Communication: 60 seats, Mechanical Engineering: 60 seats, Civil Engineering: 60 seats, Electrical Engineering: 60 seats, Information Technology: 60 seats. Total intake: 420 seats per year.
+
+--- FEES & SCHOLARSHIPS ---
+
+Q: What is the annual fee structure for B.Tech?
+A: The annual tuition fee is Rs. 85,000. Additional charges include: Development fee Rs. 15,000, Library fee Rs. 3,000, Lab charges Rs. 5,000, Exam fee Rs. 2,000, and Student Activity fee Rs. 2,000. Total annual cost: approximately Rs. 1,12,000. Hostel fees are separate.
+
+Q: Are there any scholarships available?
+A: Yes, several scholarships are available: (1) Merit Scholarship - top 10 students per branch get 25% tuition fee waiver, (2) Government scholarships - SC/ST/OBC students are eligible for state and central government scholarships, (3) Sports Quota Scholarship - 50% fee waiver for national-level athletes, (4) Sibling Discount - 10% discount if a sibling is already enrolled at GIT.
+
+Q: Is there an education loan facility?
+A: GIT has tie-ups with State Bank of India, Punjab National Bank, and Bank of Baroda for education loans up to Rs. 7.5 lakh (without collateral) and up to Rs. 15 lakh (with collateral). The bank representatives visit campus every semester for loan assistance. Contact the accounts office for more details.
+
+Q: What is the fee payment schedule?
+A: Fees are paid in two installments each year. First installment (50%) is due at the start of the odd semester (July). Second installment (50%) is due at the start of the even semester (January). A late payment fine of Rs. 50 per day is charged after the due date.
+
+Q: Is there any provision for fee concession for economically weaker students?
+A: Yes, students from families with annual income below Rs. 2.5 lakh can apply for the EWS (Economically Weaker Section) scholarship, which covers up to 50% of tuition fees. Students must submit income certificate and apply within the first month of joining.
+
+--- HOSTEL FACILITIES ---
+
+Q: Is hostel accommodation available?
+A: Yes, GIT has separate hostels for boys and girls within the campus. Boys Hostel (Vishwakarma Bhavan) has 500 beds and Girls Hostel (Saraswati Bhavan) has 300 beds. Accommodation is on first-come-first-served basis.
+
+Q: What are the hostel fee charges?
+A: Hostel fees per semester: Room rent (sharing) Rs. 8,000, Mess charges Rs. 14,000, Electricity & Water Rs. 1,500, Wi-Fi Rs. 500. Total per semester: Rs. 24,000. Single room occupancy is available at Rs. 12,000 per semester (limited rooms).
+
+Q: What facilities are provided in the hostel?
+A: Hostel facilities include: 24-hour security with CCTV, Wi-Fi connectivity, hot water geysers, common TV room, indoor games room, gym, reading room, laundry facility, medical first-aid room, backup generator, and canteen service from 6 AM to 10 PM.
+
+Q: What are the hostel entry/exit timings?
+A: For boys, the hostel gate closes at 10:00 PM on weekdays and 10:30 PM on weekends. For girls, the gate closes at 9:00 PM on weekdays and 9:30 PM on weekends. Late entry requires prior written permission from the warden. Outstation leave requires parent/guardian consent.
+
+Q: Is mess food available? What type of food is served?
+A: Yes, the hostel mess provides vegetarian meals. Meal timings: Breakfast 7:30-9:00 AM, Lunch 12:30-2:00 PM, Evening snacks 5:00-6:00 PM, Dinner 7:30-9:00 PM. The menu changes daily and special meals are served on festivals. Non-vegetarian food is available on Sundays.
+
+--- LIBRARY ---
+
+Q: What are the library timings?
+A: The central library is open Monday to Saturday from 8:00 AM to 9:00 PM. On Sundays and holidays it is open from 9:00 AM to 5:00 PM. During examination periods, the library extends hours to 11:00 PM.
+
+Q: How many books can students borrow from the library?
+A: B.Tech students can borrow up to 4 books at a time for a period of 14 days. Reference books and competitive exam books can only be used inside the library. A fine of Rs. 2 per day per book is charged for late returns.
+
+Q: Does the library have digital resources?
+A: Yes, GIT library provides access to: NPTEL video lectures, IEEE Xplore digital library, Springer e-books, DELNET network of libraries, INFLIBNET N-LIST programme, and ShodhGanga research repository. Students can access these from anywhere on campus using their student login.
+
+Q: Is there a book bank facility for financially weaker students?
+A: Yes, the library operates a Book Bank scheme. Economically weaker students can borrow up to 6 textbooks for the entire semester at no cost. Applications must be submitted in the first week of each semester with income certificate.
+
+--- EXAMINATIONS & RESULTS ---
+
+Q: What is the examination pattern for B.Tech?
+A: Each semester has: (1) Continuous Internal Assessment (CIA) - 40 marks, comprising 2 internal tests (15 marks each) and assignments/attendance (10 marks), (2) End Semester Examination (ESE) - 60 marks. Total: 100 marks per subject. Students must score minimum 40% overall (with at least 24/60 in ESE) to pass.
+
+Q: When are the semester examinations held?
+A: Odd semester (1st, 3rd, 5th, 7th) exams are held in November-December. Even semester (2nd, 4th, 6th, 8th) exams are held in April-May. Supplementary/back examinations are conducted in July-August. Exam schedules are published on the college website 30 days before exams.
+
+Q: How can I view my results?
+A: Results are published on the college website (git.ac.in/results) and on the university portal within 30-45 days of the exam. Students receive SMS notifications when results are declared. Mark sheets are distributed through the respective departments.
+
+Q: What is the minimum attendance requirement?
+A: Students must maintain a minimum of 75% attendance in each subject to be eligible to appear in the end semester examination. Students with attendance between 65-74% may be given a condonation on medical or valid grounds. Below 65% attendance leads to detention and the student must re-register for the subject.
+
+Q: What happens if I fail in a subject?
+A: Students who fail in a subject (score below 40%) must appear in the supplementary examination in July-August. If they fail again, they can re-appear in the next regular examination. Students cannot proceed to the next year if they have more than 4 backlogs. KT (Keep Term) students pay a supplementary exam fee of Rs. 500 per subject.
+
+Q: How can I apply for revaluation of answer papers?
+A: Revaluation applications must be submitted within 15 days of result declaration. The fee is Rs. 300 per subject. Applications are submitted to the Examination Section. Photocopy of the answer sheet can be obtained for Rs. 200 per subject before applying for revaluation.
+
+--- SYLLABUS & ACADEMICS ---
+
+Q: Where can I find the B.Tech syllabus?
+A: The complete syllabus for all branches is available on the college website at git.ac.in/academics/syllabus. Printed copies are available in the library and department offices. The syllabus is revised every 3-4 years to align with industry requirements.
+
+Q: What programming languages are taught in Computer Science?
+A: The CSE curriculum covers: C (1st year), C++ and Java (2nd year), Python and Data Structures (2nd-3rd year), Web Technologies (HTML/CSS/JS, React), Database Management (SQL, MongoDB), and electives in Machine Learning, Cloud Computing, and Cybersecurity in 3rd-4th year.
+
+Q: Are there any mandatory industrial training programmes?
+A: Yes, a 4-week Summer Industrial Training is mandatory after the 4th semester (end of 2nd year). Students must submit a training report and present it in the 5th semester. Additionally, a 6-month internship during the 8th semester is recommended for final year project integration.
+
+Q: What is the project work in the final year?
+A: Final year (8th semester) requires a Major Project of 6 credits. Students form groups of 2-4 and select a project guide from the faculty. The project must solve a real-world problem. Evaluation includes a mid-term review (40 marks) and final viva with external examiner (60 marks). Project report must be submitted in a bound format.
+
+--- TRANSPORT FACILITIES ---
+
+Q: Does the college provide bus service?
+A: Yes, GIT operates 12 buses covering 25 routes across the city and surrounding areas including Kondapur, Gachibowli, Miyapur, Uppal, Dilsukhnagar, LB Nagar, Secunderabad, and Hitech City. Bus schedules are available on the college website.
+
+Q: What are the bus timings?
+A: Morning pickup starts from 7:00 AM from the farthest stop and reaches campus by 8:30 AM. Evening drop starts from campus at 5:00 PM and 6:30 PM. During exam season, additional buses operate till 8:00 PM.
+
+Q: What is the annual transport fee?
+A: Transport fees vary by distance from campus: Up to 10 km: Rs. 12,000/year, 10-20 km: Rs. 16,000/year, 20-30 km: Rs. 20,000/year, Above 30 km: Rs. 24,000/year. Transport passes are issued at the start of each academic year.
+
+--- PLACEMENTS & INTERNSHIPS ---
+
+Q: What is the placement record of GIT?
+A: In the last academic year (2023-24), 85% of eligible CSE students and 70% of overall students were placed. The highest package offered was Rs. 24 LPA (by a leading MNC). Average package for CSE was Rs. 6.8 LPA. Over 80 companies visited the campus for recruitment.
+
+Q: Which companies visit GIT for campus recruitment?
+A: Top recruiters include TCS, Infosys, Wipro, Cognizant, Accenture, HCL, Tech Mahindra, Capgemini, IBM, Deloitte, Amazon (for select students), Zoho, and various product-based startups. Core engineering companies include L&T, BHEL, Bosch, and Tata Steel for non-IT branches.
+
+Q: What is the eligibility criteria to sit for campus placements?
+A: To be eligible for campus placements: No active backlogs, Minimum 60% aggregate in all previous semesters (some companies require 65%), Attendance above 75%, Students must register with the Training & Placement cell. Some companies have specific criteria which are communicated at the time of placement drive.
+
+Q: How can I apply for internships?
+A: Internships can be sourced through: (1) T&P cell which shares internship opportunities from partner companies, (2) LinkedIn and Internshala (college has premium accounts), (3) Direct applications to company websites, (4) Alumni network (GIT Alumni Portal). Internship completion letters must be submitted to the T&P office.
+
+Q: Is there any pre-placement training provided?
+A: Yes, GIT has a dedicated Training & Placement (T&P) cell that conducts: Aptitude training (online and offline), Technical interview preparation, Group Discussion and HR interview mock sessions, Communication skills workshops, Resume building and LinkedIn profile workshops. Training starts from 3rd semester onwards.
+
+--- FACULTY & DEPARTMENTS ---
+
+Q: How many departments does GIT have?
+A: GIT has 8 departments: Computer Science & Engineering (CSE), Electronics & Communication Engineering (ECE), Mechanical Engineering (ME), Civil Engineering (CE), Electrical & Electronics Engineering (EEE), Information Technology (IT), Applied Sciences & Humanities (ASH), and Management Studies (MBA).
+
+Q: What is the student-to-faculty ratio?
+A: GIT maintains a student-to-faculty ratio of 15:1. There are 180 full-time faculty members, of whom 45% hold a Ph.D. degree. The institute encourages faculty to pursue research and publish in international journals.
+
+Q: How can I contact a faculty member?
+A: Faculty contact details (email and office hours) are listed on the college website under each department. You can also visit the department office during working hours (9 AM to 5 PM). Faculty typically respond to emails within 2 working days.
+
+--- CLUBS & EXTRACURRICULAR ACTIVITIES ---
+
+Q: What student clubs are active at GIT?
+A: GIT has 20+ active student clubs including: Coding Club (CodeForce), Robotics Club, Entrepreneurship Cell (E-Cell), Cultural Club (Rang-Manch), Photography Club, NSS (National Service Scheme), NCC, Literary Club, Music Club, Dance Club, Sports Club, IEEE Student Chapter, and ACM Student Chapter.
+
+Q: What is the annual tech fest at GIT?
+A: GIT's annual technical festival is called TechNova, held in February every year over 3 days. Events include hackathons, paper presentations, coding competitions, project exhibitions, robotics battles, and guest lectures from industry experts. Cash prizes worth over Rs. 5 lakh are distributed.
+
+Q: What is the cultural fest?
+A: GIT's cultural festival is called Aarohi, typically held in October over 2 days. Events include solo and group dance, singing, drama, fashion show, photography contest, and literary events. Students from other colleges also participate.
+
+Q: What sports facilities are available?
+A: GIT has a large sports complex with: cricket ground, football field, basketball courts (2), volleyball courts (2), badminton courts (indoor, 4), table tennis room, gymnasium, swimming pool, and athletics track. Annual sports meet is held in January.
+
+--- ANTI-RAGGING & STUDENT WELFARE ---
+
+Q: What is the anti-ragging policy at GIT?
+A: GIT has a zero-tolerance policy for ragging. An Anti-Ragging Committee is active round the clock. Students can report ragging incidents to the Anti-Ragging helpline (1800-180-5522 - toll free), the college Anti-Ragging Cell (+91-XXXXXXXXXX), or directly to the Principal. Strict disciplinary action including expulsion is taken against offenders.
+
+Q: Is there a Student Grievance Redressal mechanism?
+A: Yes, GIT has a Student Grievance Redressal Committee (SGRC). Students can submit grievances through: the online portal at git.ac.in/grievance, dropping a letter in the grievance box placed near the principal's office, or emailing grievance@git.ac.in. All grievances are addressed within 7 working days.
+
+Q: Is there a counselling or mental health support facility?
+A: Yes, GIT has a full-time professional counsellor on campus. Students can book an appointment through the student portal or visit Room 105, Admin Block, any working day between 10 AM and 4 PM. All sessions are strictly confidential. A peer support group called "MindMates" is also active.
+
+--- CAMPUS FACILITIES ---
+
+Q: What are the campus Wi-Fi details for students?
+A: The entire campus (classrooms, hostels, library, common areas) has Wi-Fi coverage. Students get 10 GB free data per month. Connect to network "GIT-STUDENT" and login with your enrollment number and date of birth (DDMMYYYY format) when prompted. For technical issues contact IT helpdesk at Room 12, Ground Floor, Main Block.
+
+Q: Are there ATM and banking facilities on campus?
+A: Yes, there is an SBI ATM and a small bank branch (SBI) operating on campus from 10 AM to 2 PM on weekdays. There is also a photocopying and stationery shop, a bookstore, a grocery store, and a food court with 5 stalls open from 7:30 AM to 9:30 PM.
+
+Q: What are the college working hours?
+A: Classes are held from 8:30 AM to 5:30 PM, Monday to Saturday. Administrative offices (Admission, Accounts, Examination, T&P) are open from 9:00 AM to 5:00 PM on weekdays and 9:00 AM to 1:00 PM on Saturdays. The college is closed on national holidays and during semester break (approx. 15 days in December and May-June).
+
+Q: How do I get a bonafide certificate or other official documents?
+A: Official documents like bonafide certificate, fee receipts, transcript, and character certificate can be requested at the Administrative Office. Processing time is 3-5 working days. Most certificates are also available for download from the student self-service portal at git.ac.in/student-portal after logging in with your enrollment number.
