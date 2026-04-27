@@ -1,6 +1,6 @@
 # 🎓 AI-Powered College FAQ Chatbot (RAG)
 
-**Final Year B.Tech Project**  
+**Final Year MCA Project**  
 A full-stack Retrieval-Augmented Generation (RAG) chatbot that answers college-related questions using a local vector database and the Groq LLM API.
 
 ---
